@@ -37,3 +37,26 @@ coverage/
 
 # === TypeScript build info (if using TS) ===
 *.tsbuildinfo
+
+# ====models====
+# Ignore Python virtual environment
+model/venv/
+
+# Ignore trained models
+model/model.h5
+
+# Ignore face detection XML files (usually not needed in Git)
+model/haarcascade_frontalface_default.xml
+
+# Ignore Python bytecode and caches
+model/__pycache__/
+model/**/*.pyc
+model/**/*.pyo
+model/**/*.pyd
+
+# Ignore logs or debug files (if any are generated later)
+model/*.log
+
+# (Optional) Ignore images folder if used for temporary or input data
+model/imgs/
+
