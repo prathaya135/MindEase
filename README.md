@@ -52,15 +52,15 @@ MindEase is a comprehensive web application designed to support your mental well
 
 Here are some glimpses of the MindEase application:
 
-| Landing Page | Create Account | Login Page |
+| Landing Page | Login Page | Create Account |
 | :--- | :--- | :--- |
 | ![Landing Page](./screenshots/img1.jpg) | ![Login Page](./screenshots/img2.jpg?raw=true) | ![Create Account](./screenshots/img3.jpg?raw=true) |
 
-| Mood Logging & Suggestions | Real-Time Mood Detection | User Profile & Activity Log |
+| Mood Logging & Suggestions | Real-Time Mood Detection | MindEase Chat |
 | :--- | :--- | :--- |
 | ![Mood Logging](./screenshots/img4.jpg?raw=true) | ![Real-Time Detection](./screenshots/img5.jpg?raw=true) | ![Chat Room](./screenshots/img6.jpg?raw=true) |
 
-| MindEase Chat |
+| User Profile & Activity Log |
 | :--- |
 | ![User profile](./screenshots/img7.jpg?raw=true) |
 
